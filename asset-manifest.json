@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArmanPortfolio/static/css/main.e8625f6e.css",
+    "main.js": "/ArmanPortfolio/static/js/main.6e23ee8b.js",
+    "static/media/projectThree.png": "/ArmanPortfolio/static/media/projectThree.d697f82c3bd8d95d3a51.png",
+    "static/media/live.png": "/ArmanPortfolio/static/media/live.2eddd213a62057ebb60d.png",
+    "static/media/projectOne.png": "/ArmanPortfolio/static/media/projectOne.d91918a0595097f0f23a.png",
+    "static/media/myimage.png": "/ArmanPortfolio/static/media/myimage.18e747aca4241d8a822d.png",
+    "static/media/bannerImg.png": "/ArmanPortfolio/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/contactImg.png": "/ArmanPortfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/projectTwo.png": "/ArmanPortfolio/static/media/projectTwo.736d48c70feecb321d3d.png",
+    "static/media/profile.jpg": "/ArmanPortfolio/static/media/profile.ad592261680db21707e3.jpg",
+    "static/media/logo.png": "/ArmanPortfolio/static/media/logo.74aa65dfab937b0b04b5.png",
+    "index.html": "/ArmanPortfolio/index.html",
+    "main.e8625f6e.css.map": "/ArmanPortfolio/static/css/main.e8625f6e.css.map",
+    "main.6e23ee8b.js.map": "/ArmanPortfolio/static/js/main.6e23ee8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8625f6e.css",
+    "static/js/main.6e23ee8b.js"
+  ]
+}
