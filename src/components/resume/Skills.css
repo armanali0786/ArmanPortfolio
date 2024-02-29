@@ -1,0 +1,6 @@
+@media (max-width: 1023px) {
+    .overflow-x-hidden {
+      width: 100%;
+      /* Additional styles for smaller screens if needed */
+    }
+  }
