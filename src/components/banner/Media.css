@@ -1,0 +1,24 @@
+@media (max-width: 1280px) {
+    .w-full {
+        width: 100%;
+    }
+
+    .SocialText{
+        margin-top: 8px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .w-full {
+        width: 100%;
+    }
+    /* .MediaIcon{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+    } */
+    .SocialText{
+        margin-top: 8px;
+    }
+}

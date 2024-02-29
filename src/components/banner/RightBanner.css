@@ -1,0 +1,35 @@
+.RightBannerImg {
+    height: 400px;
+    width:400px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 1023px) {
+    .w-full {
+        width: 100%;
+    }
+   
+    .RightBannerImg{
+        height: 300px;
+        width:300px;
+        margin-bottom: 10px;
+    }
+    
+}
+
+
+@media (max-width: 570px) {
+    .RightBannerImg {
+      height: 200px;
+      width: 200px;
+      margin-bottom: 10px;
+    }
+  }
+  
+  @media (max-width: 320px) {
+    .RightBannerImg {
+      height: 150px;
+      width: 150px;
+    }
+  }
+  
