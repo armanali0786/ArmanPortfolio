@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree,live } from "../../assets/index";
+import { projectOne, projectTwo, projectThree,live, netflix,addtocart } from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -33,6 +33,14 @@ const Projects = () => {
           src={projectOne}
         />
         </a>
+        <a href='https://github.com/armanali0786/Netflix_Clone' target='_blank' style={{textDecoration: "none",color:"white"}}>
+         <ProjectsCard
+          title="NetFlix Clone"
+          des=" The Netflix Clone project aims to replicate the core functionality and user experience of the popular streaming platform Netflix. 
+          Utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js). "
+          src={netflix}
+        />
+         </a> 
         <a href='https://github.com/armanali0786/Rental-Management-System' target='_blank' style={{textDecoration: "none", color:"white"}} > 
         <ProjectsCard
           title="Rental Management System"
@@ -41,6 +49,14 @@ const Projects = () => {
           src={projectThree}
         />
         </a>
+         <a href='https://github.com/armanali0786/Redux-Add-To-Cart' target='_blank' style={{textDecoration: "none",color:"white"}}>
+         <ProjectsCard
+          title="Redux AddToCart"
+          des=" A React Redux Add to Cart application utilizes React for UI components and Redux for state management. 
+          It allows users to browse items, add them to a cart, and manage the cart's contents efficiently. "
+          src={addtocart}
+        />
+         </a> 
         <a href='https://github.com/armanali0786/Dashboard-prime-react' target='_blank' style={{textDecoration: "none",color:"white"}}>
          <ProjectsCard
           title="Dashboard Prime React"

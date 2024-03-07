@@ -7,7 +7,9 @@ import projectThree from "./images/projects/projectThree.png"
 import quote from "./images/testmonial/quote.png"
 import contactImg from "./images/contact/contactImg.png"
 import profile from './images/contact/profile.jpg'
-import live from './images/live.png'
+import live from './images/projects/live.png'
+import netflix from './images/projects/netflix.png'
+import addtocart from './images/projects/addtocart.png'
 export {
   logo,
   bannerImg,
@@ -18,5 +20,7 @@ export {
   quote,
   contactImg,
   profile,
-  live
+  live,
+  netflix,
+  addtocart
 };
