@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ArmanPortfolio/static/css/main.4df449bc.css",
-    "main.js": "/ArmanPortfolio/static/js/main.e296a1d0.js",
+    "main.js": "/ArmanPortfolio/static/js/main.8ca71044.js",
     "static/media/projectThree.png": "/ArmanPortfolio/static/media/projectThree.d697f82c3bd8d95d3a51.png",
     "static/media/netflix.png": "/ArmanPortfolio/static/media/netflix.b8930a3d475d1834867f.png",
     "static/media/live.png": "/ArmanPortfolio/static/media/live.2eddd213a62057ebb60d.png",
@@ -15,10 +15,10 @@
     "static/media/logo.png": "/ArmanPortfolio/static/media/logo.74aa65dfab937b0b04b5.png",
     "index.html": "/ArmanPortfolio/index.html",
     "main.4df449bc.css.map": "/ArmanPortfolio/static/css/main.4df449bc.css.map",
-    "main.e296a1d0.js.map": "/ArmanPortfolio/static/js/main.e296a1d0.js.map"
+    "main.8ca71044.js.map": "/ArmanPortfolio/static/js/main.8ca71044.js.map"
   },
   "entrypoints": [
     "static/css/main.4df449bc.css",
-    "static/js/main.e296a1d0.js"
+    "static/js/main.8ca71044.js"
   ]
 }
