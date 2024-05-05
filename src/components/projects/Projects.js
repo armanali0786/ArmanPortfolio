@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree,live, netflix,addtocart } from "../../assets/index";
+import { projectOne, projectTwo, projectThree,live, netflix,addtocart , deliverypoint} from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -25,6 +25,15 @@ const Projects = () => {
           src={live}
         />
         </a>
+        <a href='https://github.com/armanali0786/delivery-point' target='_blank' style={{ textDecoration: "none", color: "white" }}>
+            <ProjectsCard
+              title=" Delivery Point "
+              des="Design and developed websites features such as food listing with quick delivery options within 30 minutes, showcasing top-rated restaurants, 
+          and enabling robust search capabilities for food items and restaurants, 
+          Developed detailed food item pages displaying images, descriptions, prices and ratings."
+              src={deliverypoint}
+            />
+          </a>
         <a href='https://github.com/armanali0786/social-media-app' target='_blank' style={{textDecoration: "none",color:"white"}}>
         <ProjectsCard
           title="SOCIAL MEDIA CLONE"
@@ -41,14 +50,15 @@ const Projects = () => {
           src={netflix}
         />
          </a> 
-        <a href='https://github.com/armanali0786/Rental-Management-System' target='_blank' style={{textDecoration: "none", color:"white"}} > 
+
+        {/* <a href='https://github.com/armanali0786/Rental-Management-System' target='_blank' style={{textDecoration: "none", color:"white"}} > 
         <ProjectsCard
           title="Rental Management System"
           des=" Developed a web application which is used to find the house on rent nearby share. 
           Implemented an admin panel that allows administrator to add customers and add their services to see all rental details. "
           src={projectThree}
         />
-        </a>
+        </a> */}
          <a href='https://github.com/armanali0786/Redux-Add-To-Cart' target='_blank' style={{textDecoration: "none",color:"white"}}>
          <ProjectsCard
           title="Redux AddToCart"

@@ -10,6 +10,7 @@ import profile from './images/contact/profile.jpg'
 import live from './images/projects/live.png'
 import netflix from './images/projects/netflix.png'
 import addtocart from './images/projects/addtocart.png'
+import deliverypoint from './images/projects/delivery-point.png'
 export {
   logo,
   bannerImg,
@@ -22,5 +23,6 @@ export {
   profile,
   live,
   netflix,
-  addtocart
+  addtocart,
+  deliverypoint
 };
