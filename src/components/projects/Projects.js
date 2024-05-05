@@ -50,15 +50,14 @@ const Projects = () => {
           src={netflix}
         />
          </a> 
-
-        {/* <a href='https://github.com/armanali0786/Rental-Management-System' target='_blank' style={{textDecoration: "none", color:"white"}} > 
+        <a href='https://github.com/armanali0786/Rental-Management-System' target='_blank' style={{textDecoration: "none", color:"white"}} > 
         <ProjectsCard
           title="Rental Management System"
           des=" Developed a web application which is used to find the house on rent nearby share. 
           Implemented an admin panel that allows administrator to add customers and add their services to see all rental details. "
           src={projectThree}
         />
-        </a> */}
+        </a>
          <a href='https://github.com/armanali0786/Redux-Add-To-Cart' target='_blank' style={{textDecoration: "none",color:"white"}}>
          <ProjectsCard
           title="Redux AddToCart"
