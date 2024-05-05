@@ -16,7 +16,7 @@ const ContactLeft = () => {
           MERN Stack Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Welcome to my profile! I am an enthusiastic and dedicated backend software developer.
+          Welcome to my profile! I am an enthusiastic and dedicated Full Stack developer.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+7319977276</span>
