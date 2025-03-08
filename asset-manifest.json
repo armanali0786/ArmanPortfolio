@@ -1,14 +1,12 @@
 {
   "files": {
-    "main.css": "/ArmanPortfolio/static/css/main.767d61a2.css",
-    "main.js": "/ArmanPortfolio/static/js/main.be52b564.js",
+    "main.css": "/ArmanPortfolio/static/css/main.6bee58d6.css",
+    "main.js": "/ArmanPortfolio/static/js/main.4b0b804e.js",
     "static/media/projectThree.png": "/ArmanPortfolio/static/media/projectThree.d697f82c3bd8d95d3a51.png",
     "static/media/delivery-point.png": "/ArmanPortfolio/static/media/delivery-point.d05f87e0259cf23f8053.png",
     "static/media/netflix.png": "/ArmanPortfolio/static/media/netflix.b8930a3d475d1834867f.png",
-    "static/media/solar-panel-installation1.png": "/ArmanPortfolio/static/media/solar-panel-installation1.fd7d1b5fe0e70b06b795.png",
     "static/media/live.png": "/ArmanPortfolio/static/media/live.2eddd213a62057ebb60d.png",
     "static/media/addtocart.png": "/ArmanPortfolio/static/media/addtocart.3549a031fd7226979eab.png",
-    "static/media/linkedin-extension.png": "/ArmanPortfolio/static/media/linkedin-extension.55a7990a3bac0767f8fd.png",
     "static/media/projectOne.png": "/ArmanPortfolio/static/media/projectOne.8db2357027f033bd4d16.png",
     "static/media/myimage.png": "/ArmanPortfolio/static/media/myimage.18e747aca4241d8a822d.png",
     "static/media/bannerImg.png": "/ArmanPortfolio/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
@@ -17,11 +15,11 @@
     "static/media/profile.jpg": "/ArmanPortfolio/static/media/profile.ad592261680db21707e3.jpg",
     "static/media/logo.png": "/ArmanPortfolio/static/media/logo.74aa65dfab937b0b04b5.png",
     "index.html": "/ArmanPortfolio/index.html",
-    "main.767d61a2.css.map": "/ArmanPortfolio/static/css/main.767d61a2.css.map",
-    "main.be52b564.js.map": "/ArmanPortfolio/static/js/main.be52b564.js.map"
+    "main.6bee58d6.css.map": "/ArmanPortfolio/static/css/main.6bee58d6.css.map",
+    "main.4b0b804e.js.map": "/ArmanPortfolio/static/js/main.4b0b804e.js.map"
   },
   "entrypoints": [
-    "static/css/main.767d61a2.css",
-    "static/js/main.be52b564.js"
+    "static/css/main.6bee58d6.css",
+    "static/js/main.4b0b804e.js"
   ]
 }
