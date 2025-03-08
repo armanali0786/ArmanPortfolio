@@ -7,7 +7,7 @@ const Media = () => {
     <div className="MediaIcon flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between" >
         <div className=''>
           <div className="flex gap-4" >
-            <a href='https://drive.google.com/file/d/1kXESDCaiGcuS9y2dZlA3PvWrU4uUdYQs/view?usp=sharing' target='_blank'>
+            <a href='https://drive.google.com/file/d/1hwETB4bWrzmVJdfwG65L-ujnsLM5sb0P/view?usp=sharing' target='_blank'>
            <button class="btn-donate">
                Download Resume
             </button>
