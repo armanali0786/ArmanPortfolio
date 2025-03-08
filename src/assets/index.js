@@ -11,6 +11,8 @@ import live from './images/projects/live.png'
 import netflix from './images/projects/netflix.png'
 import addtocart from './images/projects/addtocart.png'
 import deliverypoint from './images/projects/delivery-point.png'
+import SolarPanel from './images/projects/solar-panel-installation1.png'
+import LinkedInExtension from './images/projects/linkedin-extension.png'
 export {
   logo,
   bannerImg,
@@ -24,5 +26,7 @@ export {
   live,
   netflix,
   addtocart,
-  deliverypoint
+  deliverypoint,
+  SolarPanel,
+  LinkedInExtension,
 };

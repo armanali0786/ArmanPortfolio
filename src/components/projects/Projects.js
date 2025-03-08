@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree,live, netflix,addtocart , deliverypoint} from "../../assets/index";
+import { projectOne, projectTwo, projectThree,live, netflix,addtocart , deliverypoint,  SolarPanel, LinkedInExtension} from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -16,6 +16,23 @@ const Projects = () => {
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
+
+      <a href='javascript:;'  style={{textDecoration: "none",color:"white"}}>
+        <ProjectsCard
+          title="Solar Panel Installation"
+          des="Developed a 3D map rendering, using Three.js to create location-based house models with roof structures, enabling solar panel installation, placement, and energy output calculations."
+          src={SolarPanel}
+        />
+        </a>  
+
+        <a href='javascript:;'  style={{textDecoration: "none",color:"white"}}>
+        <ProjectsCard
+         title="LinkedIn Profile Review Extension"
+          des="Developed a Chrome extension web application integrating LinkedIn API for user authentication, profile reviews with ratings, and market insights visualization. "
+          src={LinkedInExtension}
+        />
+        </a>  
+
       <a href='http://405live.com' target='_blank' style={{textDecoration: "none",color:"white"}}>
         <ProjectsCard
           title="405 Live "
@@ -24,7 +41,7 @@ const Projects = () => {
           locations, user authentication and advanced search functionality, events, filtered events,venues events, favourites. "
           src={live}
         />
-        </a>
+        </a>  
         <a href='https://github.com/armanali0786/delivery-point' target='_blank' style={{ textDecoration: "none", color: "white" }}>
             <ProjectsCard
               title=" Delivery Point "

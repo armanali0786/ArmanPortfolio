@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact, FaNode , FaJava} from "react-icons/fa";
+import { FaGithub , FaTwitter, FaLinkedinIn, FaReact, FaNode , FaPhp } from "react-icons/fa";
 import { SiMongodb,  } from "react-icons/si";
 import './Media.css'
 const Media = () => {
@@ -15,9 +15,9 @@ const Media = () => {
               <FaLinkedinIn className='icons'/>
             </span>
            </a>
-            <a href='https://www.facebook.com/profile.php?id=100031325293941&mibextid=ZbWKwL' target='_blank'>
+            <a href='https://github.com/armanali0786' target='_blank'>
             <span className="bannerIcon">
-              <FaFacebookF />
+              <FaGithub  />
             </span>
             </a>
            <a href=' https://twitter.com/Arman_Ali_01?s=09' target='_blank'>
@@ -39,7 +39,7 @@ const Media = () => {
               <FaReact />
             </span>
             <span className="bannerIcon">
-              <FaJava />
+              <FaPhp  />
             </span>
             <span className="bannerIcon">
               <SiMongodb />

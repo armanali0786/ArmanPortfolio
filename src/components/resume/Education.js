@@ -20,7 +20,7 @@ const Education = () => {
             title=" BE in Information Technology"
             subTitle=" Gujarat Technological University (2019 - 2023)"
             result="8.6/10"
-            des="• I recently completing my Bachelor's degree in Information Technology.
+            des="• I did  my Bachelor's degree in Information Technology.
                   with a passion for building efficient and scalable systems."
           />
           <ResumeCard
@@ -45,9 +45,18 @@ const Education = () => {
           <h2 className="text-3xl md:text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+        
         <ResumeCard
             title="Web Developer"
-            subTitle="9Brainz (July 2023 - Present)"
+            subTitle="Cipher Craft Pvt Ltd. - (Sep 2024 - Present)"
+            result="Rajkot"
+            des="• Developed dynamic and responsive websites using Reactjs,Three.js, Nodejs, showcasing expertise in creating visually appealing and user-friendly interfaces."
+            desc="• Optimized application performance and efficiency by identifying and resolving technical issues and bugs."
+          />
+
+        <ResumeCard
+            title="Web Developer"
+            subTitle="9Brainz (July 2023 - July 2024)"
             result="Rajkot"
             // des="• 405-Live event management system that easiest and most convenient way to book tickets for your favourite shows ." 
             des="• Designed and developed dynamic and responsive websites using Reactjs, Worked with REST APIs to retrieve and display data from databases" 
@@ -60,12 +69,12 @@ const Education = () => {
             result="Ahmedabad"
             des="• Create REST API /user interface by using standard Reactjs/Nodejs/Express & MongoDB practices."
           />
-          <ResumeCard
+          {/* <ResumeCard
             title="Web Developer"
             subTitle="LetsGrowMore - (Jun 2022 - July 2022)"
             result="remote"
             des="• Dedicated time to personal growth, attending regular training to broaden web development capabilities."
-          />
+          /> */}
         </div>
       </div>
     </motion.div>
