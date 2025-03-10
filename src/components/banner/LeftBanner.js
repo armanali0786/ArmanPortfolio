@@ -5,7 +5,7 @@ import Resume from './Resume';
 import './LeftBanner.css'
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Professional Coder", "MERN Stack Developer", "Web Developer"],
+    words: ["Full Stack Developer", "MERN Stack Developer", "Web Developer"],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -30,10 +30,13 @@ const LeftBanner = () => {
         <p className="text-base font-bodyFont leading-6 tracking-wide">
           {/* I am an enthusiastic and dedicated backend software developer, 
         recently completing my Bachelor's degree in Information Technology.  */}
-          As an aspiring Software Developer, I have a strong
-          passion for building efficient and scalable systems. I am skilled in
-          programming languages like Nodejs, Reactjs, Nextjs, JavaScript, Core Java
-          and have a good understanding of data structures and algorithms.
+          As a Software Developer with 2+ years of experience in frontend and backend technologies, I have a strong passion for building efficient and scalable systems. 
+          I am proficient in technologies like Node.js, React.js, Next.js, JavaScript, and Core Java, with a solid understanding of data structures and algorithms
+          {/* Innovative Software Developer with extensive experience in designing, developing, and deploying robust 
+          software solutions. Skilled in both front-end and back-end development, utilizing a diverse range of 
+          programming languages and frameworks and having 2+ years of experience in both. Proven ability to solve 
+          complex problems and deliver high-quality, scalable applications. Detail-oriented, collaborative, and 
+          committed to continuous learning and adaptation to emerging technologies.  */}
         </p>
       </div>
       {/* Media */}

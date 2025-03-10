@@ -19,7 +19,7 @@ const ContactLeft = () => {
           Welcome to my profile! I am an enthusiastic and dedicated Full Stack developer.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+7319977276</span>
+          Phone: <span className="text-lightText">+91 7319977276</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email: <span className="text-lightText">armanali.shaikh77@gmail.com</span>
